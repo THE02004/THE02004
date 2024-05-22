@@ -21,7 +21,7 @@ Je m'appelle Théo Guichard, passionné de technologie, programmation, et autres
 
 ## Projets
 
-Explorez mes projets [ici](https://the02004.github.io/Portfolio-GitHub/index.html). Ils démontrent mes compétences en programmation et ma capacité à résoudre des problèmes complexes.
+Explorez mes projets sur mon site [ici](https://the02004.github.io/Portfolio-GitHub/index.html). Ils démontrent mes compétences en programmation et ma capacité à résoudre des problèmes complexes.
 
 ## Contact
 
