@@ -16,7 +16,7 @@ Je m'appelle Théo Guichard, passionné de technologie, programmation, et autres
 ### Expériences
 
 - 📚 **2023-2026** : Étudiant à l'Ecole LDLC
-- 💼 **2023** : Stagiaire développeur Full Stack, Piscine Ecole 42
+- 💼 **2023** : Piscine Ecole 42
 - 🖥️ **2021** : Stagiaire service informatique, Préfecture de Bourg-en-Bresse
 
 ## Projets
