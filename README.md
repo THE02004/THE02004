@@ -1,4 +1,3 @@
-
 # Hi there 👋
 
 Bienvenue sur mon portfolio GitHub. Vous trouverez ici un aperçu de mes compétences, de mes projets et de mes passions.
@@ -9,15 +8,20 @@ Je m'appelle Théo Guichard, passionné de technologie, programmation, et autres
 
 ### Compétences
 
-- 💻 **Langages** : C, Python, Java, JavaScript, HTML/CSS, PHP
-- 🛠️ **Technologies** : FL Studio, Sony Vegas Pro, Visual Studio Code, Vim, WordPress
+- 💻 **Langages** : C, Python, Java, JavaScript, HTML/CSS, PHP  
+- 🛠️ **Technologies** : FL Studio, Sony Vegas Pro, Visual Studio Code, Vim, WordPress  
 - 🌟 **Soft Skills** : Persévérant, Rigoureux, Curieux, Polyvalent
 
 ### Expériences
 
-- 📚 **2023-2026** : Étudiant à l'Ecole LDLC
-- 💼 **2023** : Piscine Ecole 42
-- 🖥️ **2021** : Stagiaire service informatique, Préfecture de Bourg-en-Bresse
+- 💼 **2024 – Aujourd’hui** : Développeur freelance  
+  **Client : Dive Lyon**  
+  - Développement web  
+  - Création de scripts Python  
+  - Amélioration du CRM **Perfex** avec des mises à jour sur mesure selon les besoins du client  
+- 📚 **2023–2026** : Étudiant à l'École LDLC  
+- 💼 **2023** : Piscine École 42  
+- 🖥️ **2021** : Stagiaire – Service informatique, Préfecture de Bourg-en-Bresse
 
 ## Projets
 
