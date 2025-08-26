@@ -9,7 +9,7 @@ Je m'appelle Théo Guichard, passionné de technologie, programmation, et autres
 ### Compétences
 
 - 💻 **Langages** : C, Python, Java, JavaScript, HTML/CSS, PHP  
-- 🛠️ **Technologies** : FL Studio, Sony Vegas Pro, Visual Studio Code, Vim, WordPress  
+- 🛠️ **Technologies** : phpMyAdmin, Visual Studio Code, Vim, WordPress, Codex, FL Studio,
 - 🌟 **Soft Skills** : Persévérant, Rigoureux, Curieux, Polyvalent
 
 ### Expériences
