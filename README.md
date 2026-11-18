@@ -1,34 +1,17 @@
-# Hi there 👋
+# Théo Guichard
 
-Bienvenue sur mon portfolio GitHub. Vous trouverez ici un aperçu de mes compétences, de mes projets et de mes passions.
+Étudiant à IRIIG après un bachelor à l’École LDLC, je recherche une alternance de 18 à 24 mois comme **assistant chef de projet innovation**, à Lyon et ses alentours.
 
-## À propos de moi
+Je travaille sur les usages, les contraintes techniques et le coût d’une solution. Mon expérience de développeur me permet aussi de construire les outils dont une équipe a besoin.
 
-Je m'appelle Théo Guichard, passionné de technologie, programmation, et autres domaines influençant ma vie quotidienne. Je possède des compétences en C, Python, développement web, intelligence artificielle et cybersécurité.
+## Projets et réalisations
 
-### Compétences
+- **DCR Solutions** — Je développe un projet de centres de calcul modulaires qui transforment une électricité locale excédentaire ou sous-valorisée en puissance de calcul pour les entreprises. J’étudie les usages avec des industriels et les conditions d’implantation avec des acteurs de l’énergie.
+- **Dive Lyon** — Stagiaire en 2024 puis sous-traitant en 2025, j’ai développé des modules pour Perfex CRM, une interface de réception des commandes en PHP et des scripts Python de contrôle des données.
+- **Infrastructure GPU** — J’ai assemblé et exploité des machines de calcul, suivi leur consommation et assuré leur supervision et leur dépannage.
 
-- 💻 **Langages** : C, Python, Java, JavaScript, HTML/CSS, PHP  
-- 🛠️ **Technologies** : phpMyAdmin, Visual Studio Code, Vim, WordPress, Codex, FL Studio,
-- 🌟 **Soft Skills** : Persévérant, Rigoureux, Curieux, Polyvalent
+## Code
 
-### Expériences
+[Space Invader](https://github.com/THE02004/Space-invader) · [Sources du portfolio](https://github.com/THE02004/Portfolio-GitHub)
 
-- 💼 **2024 – Aujourd’hui** : Développeur freelance  
-  **Client : Dive Lyon**  
-  - Développement web  
-  - Création de scripts Python  
-  - Amélioration du CRM **Perfex** avec des mises à jour sur mesure selon les besoins du client  
-- 📚 **2023–2026** : Étudiant à l'École LDLC  
-- 💼 **2023** : Piscine École 42  
-- 🖥️ **2021** : Stagiaire – Service informatique, Préfecture de Bourg-en-Bresse
-
-## Projets
-
-Explorez mes projets sur mon site [ici](https://the02004.github.io/Portfolio-GitHub/index.html). Ils démontrent mes compétences en programmation et ma capacité à résoudre des problèmes complexes.
-
-## Contact
-
-Pour toute collaboration, visitez ma [page de contact](https://the02004.github.io/Portfolio-GitHub/Contact.html) ou envoyez-moi un e-mail à **theo.guichard01@gmail.com**.
-
-Merci pour votre intérêt.
+[Découvrir mon portfolio](https://the02004.github.io/Portfolio-GitHub/) · [Me contacter](https://the02004.github.io/Portfolio-GitHub/Contact.html)
